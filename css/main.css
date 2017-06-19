@@ -99,7 +99,7 @@ table tr:nth-child(odd) {
 }
 pre,
 .highlight {
-  background: #efc;
+  background: #f7f7f7;
   margin: 20px 0;
   padding: 15px;
   overflow: auto;
@@ -183,7 +183,7 @@ pre .command {
 }
 pre .ruby .class .title,
 pre .css .rules .attribute {
-  color: #006400;
+  color: #718c00;
 }
 pre .string,
 pre .value,
@@ -194,7 +194,7 @@ pre .xml .cdata,
 pre .special,
 pre .number,
 pre .formula {
-  color: #006400;
+  color: #718c00;
 }
 pre .title,
 pre .css .hexcolor {
